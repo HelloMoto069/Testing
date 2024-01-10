@@ -1,3 +1,4 @@
+{
 Bio : {
   name: "Anuruddh Singh",
   emailID: "anurudhsingh069@gmail.com",
@@ -322,6 +323,6 @@ Projects = {
   },
 };
 
-
+}
 
 
