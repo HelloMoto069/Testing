@@ -1,5 +1,5 @@
 {
-Bio = {
+bio = {
   name: "Anuruddh Singh",
   emailID: "anurudhsingh069@gmail.com",
   contactNo: "+91-8299768422",
