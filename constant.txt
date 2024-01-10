@@ -18,7 +18,6 @@
     "twitter": "https://twitter.com/HelloMoto_69/",
     "insta": "https://www.instagram.com/hellomoto.69/",
     "facebook": "https://www.facebook.com/HelloMoto69/",
-    "visitorsCount": "https://camo.githubusercontent.com/55849ed02a1c6fa350de7cba0f834ce91815d334e1fc4135b3e99dc180d38180/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d48656c6c6f4d6f746f30363926636f6c6f723d626c756576696f6c6574267374796c653d706c6173746963266c6162656c3d56495349544f5253"
   },
 
   "Skills": [
