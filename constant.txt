@@ -17,7 +17,7 @@
     "linkedin": "https://www.linkedin.com/in/hellomoto69/",
     "twitter": "https://twitter.com/HelloMoto_69/",
     "insta": "https://www.instagram.com/hellomoto.69/",
-    "facebook": "https://www.facebook.com/HelloMoto69/",
+    "facebook": "https://www.facebook.com/HelloMoto69/"
   },
 
   "Skills": [
