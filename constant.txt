@@ -1,5 +1,5 @@
 {
-Bio : {
+Bio = {
   name: "Anuruddh Singh",
   emailID: "anurudhsingh069@gmail.com",
   contactNo: "+91-8299768422",
@@ -22,10 +22,7 @@ Bio : {
   facebook: "https://www.facebook.com/HelloMoto69/",
 };
 
-
-
-
-Skills : {
+ skills = [
   {
     title: "Frontend",
     skills: [
@@ -148,12 +145,9 @@ Skills : {
       },
     ],
   },
-};
+];
 
-
-
-
-Experiences = {
+ experiences = [
   {
     id: 0,
     img: "https://www.clayfin.com/wp-content/uploads/2021/03/cropped-C-Letter-Logo-1.png",
@@ -195,12 +189,9 @@ Experiences = {
     // Joining Letter or Experience Letter
     // doc: "https://example.com",
   },
-};
+];
 
-
-
-
-Education = {
+ education = [
   {
     id: 0,
     img: "data:image/png;base64,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",
@@ -237,12 +228,9 @@ Education = {
     desc: "",
     degree: "Diploma | Mechanical Engineering",
   },
-};
+];
 
-
-
-
-Projects = {
+ projects = [
   {
     id: 0,
     title: "MonkeyBaat Android App",
@@ -321,8 +309,6 @@ Projects = {
     github: "https://github.com/HelloMoto069/NORDSTORM-Clone",
     webapp: "https://nordstorm-clone.vercel.app/",
   },
-};
+];
 
 }
-
-
