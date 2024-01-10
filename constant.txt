@@ -1,6 +1,6 @@
 {
   "Bio": {
-    "name": "Anuruddh Singh",
+    "name": "Anuruddh Singh2",
     "emailID": "anurudhsingh069@gmail.com",
     "contactNo": "+91-8299768422",
     "address": "Kanpur, UP",
